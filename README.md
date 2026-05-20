@@ -30,10 +30,10 @@ By utilizing **Edge Computing**, this device processes raw ECG data and classifi
 
 <p align="center">
   <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
-  <a href="https://youtu.be/tiAHSkQ5L_E">
-   <img width="2774" height="1536" alt="Gemini_Generated_Image_6jpbux6jpbux6jpb" src="https://github.com/user-attachments/assets/ce44fd28-031c-4f4a-b29b-43e531b794d7" />
+  <a href="https://youtu.be/CDvIj5JJK60">  
+<img width="2774" height="1536" alt="Gemini_Generated_Image_6jpbux6jpbux6jpb" src="https://github.com/user-attachments/assets/039580f7-abfa-4294-b891-45bff2db7d14" />
   </a>
   <br>
-  <em>YouTube video showing a real-time demonstration of controlling a relay module over Wi-Fi using the NodeMCU ESP8266 and the Blynk smartphone application.</em>
+  <em>YouTube video showing a real-time demonstration of AI based cardiac analyaser.</em>
 </p>
 
