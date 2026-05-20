@@ -25,3 +25,15 @@ By utilizing **Edge Computing**, this device processes raw ECG data and classifi
 * **Firmware:** C++, Bare-metal register-level programming (STM32), Arduino/ESP-IDF.
 * **AI/ML:** TensorFlow Lite for Microcontrollers (TFLite Micro), Keras, Python.
 * **Digital Signal Processing:** Pan-Tompkins Algorithm, Butterworth filtering.
+
+## Project Demonstration
+
+<p align="center">
+  <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
+  <a href="https://youtu.be/tiAHSkQ5L_E">
+   <img width="2774" height="1536" alt="Gemini_Generated_Image_6jpbux6jpbux6jpb" src="https://github.com/user-attachments/assets/ce44fd28-031c-4f4a-b29b-43e531b794d7" />
+  </a>
+  <br>
+  <em>YouTube video showing a real-time demonstration of controlling a relay module over Wi-Fi using the NodeMCU ESP8266 and the Blynk smartphone application.</em>
+</p>
+
