@@ -220,7 +220,7 @@ Color-Coded Alert Screen <--- On-Device TFT Output <--- Float32 TensorFlow Lite 
 <p align="center">
   <b>▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION</b><br><br>
   <a href="https://youtu.be/CDvIj5JJK60">  
-    <img width="750" alt="Project Demonstration Video Link" src="https://github.com/user-attachments/assets/039580f7-abfa-4294-b891-45bff2db7d14" />
+<img width="2774" height="1536" alt="Firefly (33)" src="https://github.com/user-attachments/assets/4b28b997-7eb8-4773-affc-d2d18750e52b" />
   </a>
   <br>
   <em>YouTube video showing a real-time walkthrough and analytical performance of the Cardiac AI Edge system.</em>
