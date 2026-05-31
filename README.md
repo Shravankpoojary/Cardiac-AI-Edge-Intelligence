@@ -147,24 +147,23 @@ Color-Coded Alert Screen <--- On-Device TFT Output <--- Float32 TensorFlow Lite 
   <em>Figure 4: Quantized TinyML model validation results showing Confusion Matrix classification tracking and Epoch training progress.</em>
 </p>
 
-### Live Diagnosis Telemetry Walkthrough
+### TinyML Arrhythmia Classification Results
 <p align="center">
   <img width="750" alt="Screenshot 2026-03-16 231528" src="https://github.com/user-attachments/assets/d4cc39e2-bdb4-4a7b-8277-2be24acae44b" />
   <br>
   <em>Figure 5: Live ECG real-time tracking waveforms along with on-device risk assessment probability matrix indicators.</em>
 </p>
 
-### Edge Telemetry Stream & Console Logging
 <p align="center">
-  <img width="450" alt="Screenshot 2026-03-17 225311" src="https://github.com/user-attachments/assets/548b5051-fadd-460f-84b5-63cc18f4d442" />
+   <img width="450" alt="Screenshot 2026-03-17 224932" src="https://github.com/user-attachments/assets/32c7cdb9-127e-40e5-b0b5-186144adec37" />
   <br>
-  <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
+  <em>Figure 6:  Classification of Normal Sinus Rhythm.</em>
 </p>
 
 <p align="center">
-  <img width="450" alt="Screenshot 2026-03-17 224932" src="https://github.com/user-attachments/assets/32c7cdb9-127e-40e5-b0b5-186144adec37" />
+  <img width="450" alt="Screenshot 2026-03-17 225311" src="https://github.com/user-attachments/assets/548b5051-fadd-460f-84b5-63cc18f4d442" />
   <br>
-  <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
+  <em>Figure 6: Classification of indicating a high probability of Atrial Fibrillation. </em>
 </p>
 
 <p align="center">
