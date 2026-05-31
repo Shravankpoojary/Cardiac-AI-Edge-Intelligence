@@ -151,14 +151,14 @@ Color-Coded Alert Screen <--- On-Device TFT Output <--- Float32 TensorFlow Lite 
 <p align="center">
   <img width="750" alt="Screenshot 2026-03-16 231528" src="https://github.com/user-attachments/assets/d4cc39e2-bdb4-4a7b-8277-2be24acae44b" />
   <br>
-  <em>Figure 5: Live ECG real-time tracking waveforms along with on-device risk assessment probability matrix indicators.</em>
+  <em>Figure 5:  Real-time ECG waveform and heart rate displayed on the TFT. </em>
 </p>
 
-### Edge Telemetry Stream & Console Logging
+### Sleep Mode for Power Saving
 <p align="center">
   <img width="450" alt="Screenshot 2026-03-17 225311" src="https://github.com/user-attachments/assets/548b5051-fadd-460f-84b5-63cc18f4d442" />
   <br>
-  <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
+  <em>Figure 6: TFT Dsiaply showing both STM32 and ESP32 has entered sleep mode, to exit press the exit button.</em>
 </p>
 
 ### TinyML Arrhythmia Classification Results
