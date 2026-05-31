@@ -144,7 +144,7 @@ Color-Coded Alert Screen <--- On-Device TFT Output <--- Float32 TensorFlow Lite 
 <p align="center">
   <img width="700" alt="Screenshot 2026-03-16 165128" src="https://github.com/user-attachments/assets/b7f2906e-4b25-42e1-84ed-f3dec2aa77f6" />
   <br>
-  <em>Figure 4: Quantized TinyML model validation results showing Confusion Matrix classification tracking and Epoch training progress.</em>
+  <em>Figure 4: Model accuracy graph.</em>
 </p>
 
 ### Live Diagnosis Telemetry Walkthrough
