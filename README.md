@@ -161,13 +161,13 @@ Color-Coded Alert Screen <--- On-Device TFT Output <--- Float32 TensorFlow Lite 
   <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
 </p>
 
+### TinyML Arrhythmia Classification Results
+
 <p align="center">
   <img width="450" alt="Screenshot 2026-03-17 224932" src="https://github.com/user-attachments/assets/32c7cdb9-127e-40e5-b0b5-186144adec37" />
   <br>
-  <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
+  <em>Figure 6:  Real-time ML Buffer Status and Classification Screen.</em>
 </p>
-
-### TinyML Arrhythmia Classification Results
 
 <p align="center">
   <img width="450" alt="Screenshot 2026-03-17 225036" src="https://github.com/user-attachments/assets/2954d73b-c9da-4e05-8a87-9bebcec7e9a1" />
