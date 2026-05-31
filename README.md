@@ -167,16 +167,18 @@ Color-Coded Alert Screen <--- On-Device TFT Output <--- Float32 TensorFlow Lite 
   <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
 </p>
 
-<p align="center">
-  <img width="450" alt="Screenshot 2026-03-17 225159" src="https://github.com/user-attachments/assets/cc17e351-0f86-4715-a325-4a2c04969496" />
-  <br>
-  <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
-</p>
+### TinyML Arrhythmia Classification Results
 
 <p align="center">
   <img width="450" alt="Screenshot 2026-03-17 225036" src="https://github.com/user-attachments/assets/2954d73b-c9da-4e05-8a87-9bebcec7e9a1" />
   <br>
-  <em>Figure 6: High-speed UART frame transmissions showing continuous streaming logs and inference state outcomes.</em>
+  <em>Figure 6: Classification of Normal Sinus Rhythm.</em>
+</p>
+
+<p align="center">
+  <img width="450" alt="Screenshot 2026-03-17 225159" src="https://github.com/user-attachments/assets/cc17e351-0f86-4715-a325-4a2c04969496" />
+  <br>
+  <em>Figure 6: Classification of indicating a high probability of Atrial Fibrillation. </em>
 </p>
 
 * **High-Fidelity Waves:** Clean real-time ECG trace tracking and dynamic R-peak detection plots rendered directly to the local display module.
